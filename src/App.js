@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Movie Finder</h1>
+      <h1>Movie Explorer</h1>
       <select
         value={selectedGenre}
         onChange={(e) => setSelectedGenre(e.target.value)}
