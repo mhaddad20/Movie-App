@@ -1,8 +1,8 @@
-# Movie Finder App
+# Movie Explorer App
 
 ## Description
 
-Movie Finder is a sleek, user-friendly React application that allows film enthusiasts to discover and explore a wide variety of movies. Leveraging the power of the Advance Movie API, this app provides an intuitive interface for browsing movies by genre.
+Movie Explorer is a sleek, user-friendly React application that allows film enthusiasts to discover and explore a wide variety of movies. Leveraging the power of the Advance Movie API, this app provides an intuitive interface for browsing movies by genre.
 
 ## Features
 
